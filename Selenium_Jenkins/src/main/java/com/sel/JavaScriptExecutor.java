@@ -23,7 +23,10 @@ public class JavaScriptExecutor{
 		JavascriptExecutor js=(JavascriptExecutor) driver;
 		js.executeScript("arguments[0].value='highestprice'",option2);
 		driver.close();
-	
+		
+		
+
+
 	}
 
 }
