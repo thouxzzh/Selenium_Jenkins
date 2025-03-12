@@ -68,6 +68,7 @@ public class ActionClass{
 
 	    action.moveToElement(blog2).click().build().perform();
    //action.click().perform()
+	    driver.quit();
 	}
 
 
