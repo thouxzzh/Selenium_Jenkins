@@ -36,7 +36,7 @@
 <goal>java</goal>
 </goals>
 <configuration>
-<mainClass>com.kiot.DropDown</mainClass>
+<mainClass>com.sel.ListDropDown</mainClass>
 </configuration>
 </execution>
 </executions>
