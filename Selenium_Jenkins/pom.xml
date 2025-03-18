@@ -6,7 +6,7 @@
   
 <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-<selenium.version>4.27.0</selenium.version>
+<selenium.version>4.29.0</selenium.version>
 </properties>
 
 <dependencies>
@@ -36,7 +36,7 @@
 <goal>java</goal>
 </goals>
 <configuration>
-<mainClass>com.sel.ActionClass1</mainClass>
+<mainClass>com.sel.CalenderJSE</mainClass>
 </configuration>
 </execution>
 </executions>
